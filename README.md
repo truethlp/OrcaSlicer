@@ -1,2 +1,1 @@
-# OrcaSlicer
-存储图片
+图片
